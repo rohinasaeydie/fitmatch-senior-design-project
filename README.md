@@ -1,6 +1,6 @@
 # 👗 FitMatch
 
-FitMatch is a social fashion mobile application designed to help users decide what to wear by uploading outfit options and receiving community-based feedback through voting. The app combines outfit uploads, occasion-based comparisons, Elo ranking, AI-assisted outfit analysis, and profile features to make fashion feedback more structured, interactive, and data-driven.
+FitMatch is a social fashion mobile application designed to help users decide what to wear by uploading outfit options and receiving community-based feedback through voting. The app combines outfit uploads, occasion-based comparisons, Elo ranking, AI-assisted outfit analysis, and profile features to make fashion feedback more structured, interactive, and data-driven. FitMatch was developed as a senior capstone project by Rohina Saeydie and Sara Almaouf.
 
 ## ✨ Features
 
@@ -94,4 +94,4 @@ Computer Science Student at The George Washington University
 
 ## 📌 Repository Note
 
-This repository is for portfolio and demo purposes only. It showcases the project concept, features, technologies, and demo video for FitMatch. The full source code is kept private.
+This repository is for portfolio and demo purposes only. It showcases the project concept, features, technologies, and demo video for FitMatch. The full source code is kept private because this project was created as part of a senior capstone project with team contributions.
