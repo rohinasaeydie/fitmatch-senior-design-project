@@ -82,11 +82,14 @@ The full project repository remains private to protect sensitive configuration, 
 
 ## 🎥 Demo Video
 
-[Watch the demo video here](YOUR_GOOGLE_DRIVE_LINK)
+[Watch the demo video here](https://drive.google.com/file/d/1MQnaj0ACT3kzVS1r3F7pQ95xKeQQFXE_/view?usp=sharing)
 
 ## 👩‍💻 Author
 
 **Rohina Saeydie**  
+Computer Science Student at The George Washington University
+
+**Sara Almaouf**  
 Computer Science Student at The George Washington University
 
 ## 📌 Repository Note
